@@ -2,12 +2,11 @@
 
 _Megan Tandean_
 
-This project aims to assemble the genomes of 8 accessions of _Arabidopsis thaliana_ that have been used to create a multi-parent advanced inter-cross (MAGIC) population, and to study the genetic and climatic variation between these ecotypes. 
+This project aims to assemble the genomes of 8 accessions of _Arabidopsis thaliana_ that have been used to create a multi-parent advanced inter-cross (MAGIC) population, and to study the genetic and climatic variation between these ecotypes. The repo contains the pipelines to run the project, the full scripts used, and directory structure that would be created by running the code with READMEs.  
+
 
 ## Directory Structure
-
-This repo contains the pipelines to run the project, the full scripts used, and directory structure that would be created by running the code.  
-
+For more detailed descriptions, see the READMEs of the directories or the descriptions in `reproducibility_documentation.pdf`
 *Note: the file locations in the early code currently may not match the directory because the structure was modified. I will update them to match as the directory structure is finalized*
 
 ### Main Folders
