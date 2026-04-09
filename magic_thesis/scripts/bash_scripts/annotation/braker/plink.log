@@ -1,0 +1,12 @@
+PLINK v1.9.0-b.7.11 64-bit (19 Aug 2025)
+Options in effect:
+  --indep-pairwise
+
+Hostname: ln002.brc
+Working directory: /global/scratch/users/mtandean/magic_thesis/scripts/bash_scripts/annotation/braker
+Start time: Mon Apr  6 16:00:21 2026
+
+Error: --indep-pairwise requires at least 3 parameters.
+For more information, try "plink --help <flag name>" or "plink --help | more".
+
+End time: Mon Apr  6 16:00:21 2026

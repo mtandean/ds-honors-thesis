@@ -1,0 +1,2 @@
+busco -i fasta_files/m84268_250919_003033_s1.hifi_reads.22633_XW.asm.bp.p_ctg.fa -m genome -c 11 -l eudicotyledons_odb12 -o m84268_250919_003033_s1.hifi_reads.22633_XW.asm.bp.p_ctg.fa_BUSCO --out_path busco_eudicots --offline
+busco -i fasta_files/m84268_250919_003033_s1.hifi_reads.76560_XW.asm.bp.p_ctg.fa -m genome -c 11 -l eudicotyledons_odb12 -o m84268_250919_003033_s1.hifi_reads.76560_XW.asm.bp.p_ctg.fa_BUSCO --out_path busco_eudicots --offline 

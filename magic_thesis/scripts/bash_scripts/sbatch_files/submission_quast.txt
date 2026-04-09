@@ -1,0 +1,9 @@
+quast fasta_files/m84268_250919_003033_s1.hifi_reads.22571_XW.asm.bp.p_ctg.fa -r fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o m84268_250919_003033_s1.hifi_reads.22571_XW.asm.bp.p_ctg.fa_quast -t 9
+quast fasta_files/m84268_250919_003033_s1.hifi_reads.22582_XW.asm.bp.p_ctg.fa -r fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o m84268_250919_003033_s1.hifi_reads.22582_XW.asm.bp.p_ctg.fa_quast -t 9
+quast fasta_files/m84268_250919_003033_s1.hifi_reads.22633_XW.asm.bp.p_ctg.fa -r fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o m84268_250919_003033_s1.hifi_reads.22633_XW.asm.bp.p_ctg.fa_quast -t 9
+quast fasta_files/m84268_250919_003033_s1.hifi_reads.22656_XW.asm.bp.p_ctg.fa -r fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o m84268_250919_003033_s1.hifi_reads.22656_XW.asm.bp.p_ctg.fa_quast -t 9
+quast fasta_files/m84268_250919_003033_s1.hifi_reads.28962_XW.asm.bp.p_ctg.fa -r fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o m84268_250919_003033_s1.hifi_reads.28962_XW.asm.bp.p_ctg.fa_quast -t 9
+quast fasta_files/m84268_250919_003033_s1.hifi_reads.76455_XW.asm.bp.p_ctg.fa -r fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o m84268_250919_003033_s1.hifi_reads.76455_XW.asm.bp.p_ctg.fa_quast -t 9
+quast fasta_files/m84268_250919_003033_s1.hifi_reads.76560_XW.asm.bp.p_ctg.fa -r fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o m84268_250919_003033_s1.hifi_reads.76560_XW.asm.bp.p_ctg.fa_quast -t 9
+quast fasta_files/m84268_250919_003033_s1.hifi_reads.76789_XW.asm.bp.p_ctg.fa -r fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o m84268_250919_003033_s1.hifi_reads.76789_XW.asm.bp.p_ctg.fa_quast -t 9
+quast fasta_files/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa -o  -t 9
